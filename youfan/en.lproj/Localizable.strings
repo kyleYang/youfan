@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  youfan
+
+  Created by Kyle on 14/12/26.
+  Copyright (c) 2014年 7Orange. All rights reserved.
+*/
+
+"home.near.restaurant" = "附近餐厅";
+"home.scan" = "扫一扫";
+"type.hotshop" = "热门餐厅";
+"type.hotproduct" = "热门菜单";
+"type.hotactivity" = "抢优惠";
+//locaion error
+"location.reverse.error" = "获取城市名字失败";
+"location.getting" = "定位中...";
+"location.name.changing" = "城市定位中...";

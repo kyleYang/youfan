@@ -1,0 +1,31 @@
+/*
+ commonlib.strings
+ eShop
+ 
+ Created by Kyle on 14/10/22.
+ Copyright (c) 2014年 yujiahui. All rights reserved.
+ */
+
+
+
+"button.cancel" = "取消";
+"button.close" = "关闭";
+"button.ok" = "确定";
+"button.download" = "下载";
+"button.done" = "完成";
+"button.next" = "下一步";
+"button.save" = "保存";
+"button.logout" = "退出登录";
+"button.edit" = "编辑";
+"button.finish" = "完成";
+"button.delete" = "删除";
+"button.clear" = "清空";
+"button.brower" = "逛一逛";
+"button.share" = "分享";
+"button.refresh" = "刷新";
+"button.modify" = "修改";
+"indicator.loading" = "正在加载...";
+"indicator.load.finish" = "没有更多了哦";
+"indicator.load.error" = "加载错误,上拉重试";
+"title.newversion" = "新版本：%@";
+"version.latest" = "已近是最新版本";

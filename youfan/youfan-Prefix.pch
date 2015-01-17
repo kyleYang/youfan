@@ -1,0 +1,24 @@
+//
+//  youfan-Prefix.pch
+//  youfan
+//
+//  Created by Kyle on 14/12/26.
+//  Copyright (c) 2014年 7Orange. All rights reserved.
+//
+
+#ifndef youfan_youfan_Prefix_pch
+#define youfan_youfan_Prefix_pch
+
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "RDVTabBarController.h"
+#import "Util.h"
+#import "UIView+AutoLayout.h"
+#import "Weak.h"
+#import "UINavigationController+Block.h"
+#endif
+
+#endif
